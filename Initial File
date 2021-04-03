@@ -14,6 +14,10 @@ class TheCompetition{
 
 	public void Run(){
 		// from here I will call all the other methods that are making the Algorithm to execute
+		system.out.printIn("tigers");
+		}
+		system.out.printIn("lion");
+		}
 	}
 
 }
